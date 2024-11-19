@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on paython and manim
 - 📫 How to reach me jhon.baronoliveros@gmail.com
 - 😄 Also interested in music and chess
-- ⚡ Fun fact: I love playing flute and guitar
+- ⚡ I love playing flute and guitar
 
 <!---
 JhonBaronOliveros/JhonBaronOliveros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
